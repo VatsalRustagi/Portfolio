@@ -1,6 +1,5 @@
-# Vatsal Rustagi's Portfolio
-
-## I have linked listed all of my published work here chronologically:
+<h1 align="center">Vatsal Rustagi's Portfolio</h1>
+<h2> I have linked listed all of my published work here chronologically: <h2>
 
 ### 1. [iOS — Refactoring in Swift: Identifiers! [Medium Article, Nov 2018]](https://medium.com/@vatsalrustagi/ios-refactoring-in-swift-identifiers-b14d9fff20c3):
 - Inspired Mark Moeykens to make a Youtube tutorial based on my article. [Click here to view the video](https://www.youtube.com/watch?v=6Om91KRQCiM&feature=youtu.be).
